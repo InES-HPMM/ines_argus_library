@@ -1,0 +1,8 @@
+# Ignore build output
+argus/build/
+testing/run*/
+doxygen/
+
+#ignore output files
+*.o
+*.so
