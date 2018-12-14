@@ -6,7 +6,7 @@ This library is a C wrapper for the **Nvidia Argus library**. It makes it possib
 
 ## Installation
 1. Install the Tegra Multimedia API with jetpack.
-1. Clone this repository and checkout the release branch.
+1. Clone this repository.
 1. Step into the repository and change to the ines_lib directory `cd ines_lib`.
 1. To install the ines_argus wrapper, run the create.sh script `./create.sh`. This will, create the wrapper library and copy it to `/usr/lib/`. The coresponding header file is in the current folder.
 1. Now the library can be included by any c application.
